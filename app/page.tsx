@@ -1,8 +1,8 @@
 export default function Home() {
   const links = [
     {
-      title: "Call Now",
-      subtitle: "Speak directly with us",
+      title: "Start Calling",
+      subtitle: "📞 Tap to call us now",
       href: "tel:+18135329032",
       icon: "📞",
     },
